@@ -1,5 +1,6 @@
 # Turku, FI Legislation
 This repository contains all legislation for the Roblox community [Turku, Finland](https://www.roblox.com/groups/34326814/Turku-Finland). Legislation can be accessed and navigated through the folders above.
+Content within the Repository will be available for access via the Tkufi Website in a simplified view.
 
 Permalink Use
 ---

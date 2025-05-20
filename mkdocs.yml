@@ -2,6 +2,7 @@ site_name: Legislation
 theme:
   name: material
   logo: assets/logo.png # TEMP LOGO NEEDS REPLACING ASAP
+  custom_dir: docs/overrides
   
   features:
     - navigation.tabs

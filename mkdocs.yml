@@ -1,0 +1,36 @@
+site_name: Legislation
+theme:
+  name: material
+  logo: assets/logo.png # TEMP LOGO NEEDS REPLACING ASAP
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+extra:
+  generator: false
+
+repo_name: tkufi/Turku-Legislation
+repo_url: https://github.com/tkufi/Turku-Legislation
+site_url: https://tkufi.github.io/Turku-Legislation/

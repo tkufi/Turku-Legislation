@@ -2,6 +2,9 @@ site_name: Legislation
 theme:
   name: material
   logo: assets/logo.png # TEMP LOGO NEEDS REPLACING ASAP
+  
+  extra_css:
+    - stylesheets/extra.css
   custom_dir: docs/overrides
 
   features:
@@ -10,6 +13,7 @@ theme:
     - navigation.path
     - navigation.indexes
     - navigation.top
+    - announce.dismiss
   palette:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -31,6 +35,12 @@ theme:
 
 extra:
   generator: false
+
+  tags:
+    pending: pending
+    passed: passed
+    failed: failed
+
   consent:
     title: Cookie consent
     description: >-
@@ -66,3 +76,7 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/feedback.js
+
+plugins:
+  - search
+  - tags

@@ -80,6 +80,3 @@ extra_javascript:
 plugins:
   - search
   - tags
-
-hooks:
-  - docs/overrides/hooks/shortcodes.py

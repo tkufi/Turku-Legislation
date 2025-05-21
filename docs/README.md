@@ -1,7 +1,12 @@
 # Home
 
 This repository contains all legislation for the Roblox community [Turku, Finland](https://www.roblox.com/communities/34326814/Turku-Finland). Legislation can be accessed and navigated through the folders above.
-Content within the Repository will be available for access via the Tkufi Website in a simplified view.
+Content within the Repository is accessible via the [website](https://tkufi.github.io/Turku-Legislation/regulations/).
+
+If you are accessing the repository to retrieve permalinks, legislative content can be discovered under:  
+[/docs/constitution](https://github.com/tkufi/Turku-Legislation/tree/main/docs/constitution)  
+[/docs/decrees](https://github.com/tkufi/Turku-Legislation/tree/main/docs/decrees)  
+[/docs/regulations](https://github.com/tkufi/Turku-Legislation/tree/main/docs/regulations)
 
 ## Permalink Use
 

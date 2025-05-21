@@ -2,9 +2,9 @@ site_name: Legislation
 theme:
   name: material
   logo: assets/logo.png # TEMP LOGO NEEDS REPLACING ASAP
-  
-  extra_css:
-    - stylesheets/extra.css
+
+  # extra_css:
+  #   - stylesheets/extra.css
   custom_dir: docs/overrides
 
   features:
@@ -80,3 +80,6 @@ extra_javascript:
 plugins:
   - search
   - tags
+
+hooks:
+  - docs/overrides/hooks/shortcodes.py

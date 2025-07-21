@@ -55,9 +55,6 @@ markdown_extensions:
   - toc:
       permalink: ¶
 
-extra_javascript:
-  - javascripts/feedback.js
-
 plugins:
   - search
   - tags
